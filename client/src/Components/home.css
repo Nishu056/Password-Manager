@@ -1,0 +1,19 @@
+.front {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #89b5e4;
+    margin: 0;
+}
+
+.heading {
+    font-size: 2.5rem;
+    color:black;
+    margin-bottom: 10px;
+}
+
+.title {
+    font-size: 1.25rem;
+    color: grey;
+}
